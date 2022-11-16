@@ -1,0 +1,16 @@
+*.pyc
+*.backup
+*.bak
+*.ps
+*.aux
+*.log
+*.toc
+*.nav
+*.out
+*.snm
+*.vrb
+*~
+*.dvi
+main.bbl
+main.blg
+*.swp
