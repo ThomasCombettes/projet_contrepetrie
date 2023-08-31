@@ -1,7 +1,6 @@
-run on python3
+python3 : 
 
-sudo apt install pip
+$ sudo apt install pip
+$ pip install language_tool_python
 
-pip install language_tool_python
-
-il faut lancer le ficher "input.py"
+$ python3 input.py
